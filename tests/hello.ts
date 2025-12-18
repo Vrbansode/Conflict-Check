@@ -10,3 +10,6 @@ console.log(messgae);
 
 const demo: string =greet("PR Approval mad bhai");
 console.log(demo);
+
+const demo2: string =greet("PR Approval mad bhai");
+console.log(demo2);
